@@ -1,0 +1,103 @@
+ body {
+    background-image: url("../image/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+ }
+ .workspace3 {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    position: left;
+}
+ .workspace1 {
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+ .facebook-logo {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+ .facebook-logo {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+ .instagram-logo {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+ .whatsapp-logo {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+body {
+   color: white;
+}
+.spacial-text {
+   color:white;
+   text-align: center;
+}
+.spacial-text1 {
+   color: rgb(182, 156, 11);
+   text-align: center;
+}
+h1 {
+   font-size: 80px;
+}
+   .spacial-text2 {
+      color: white;
+   }
+   .spacial-text3 {
+      font-size: 40px;
+      color: rgb(182, 156, 11);
+      font-style: var();
+   }
+    .spacial-text4 {
+      font-size: 20px;
+      color: rgb(182, 156, 11);
+      font-style: italic;
+   }
+    .spacial-text5 {
+      font-size: 20px;
+      color: rgb(182, 156, 11);
+      font-style: italic;
+   }
+    .spacial-text6 {
+      font-size: 20px;
+      color: rgb(182, 156, 11);
+      font-style: italic;
+   }
+    .spacial-text7 {
+      font-size: 20px;
+      color: rgb(182, 156, 11);
+      font-style: italic;
+
+   }
+    .spacial-text8 {
+      font-size: 20px;
+      color: rgb(182, 156, 11);
+      font-style: italic;
+   }
+   .spacial-text9 {
+      font-size: 40px;
+      color: rgb(182, 156, 11);
+   }
+   .spacial-text10 {
+      font-size: 20px;
+   }
+    .spacial-text12 {
+      font-size: 40px;
+      color: rgb(182, 156, 11);
+   }
+   .spacial-text13 {
+      font-size: 20px;
+      color: rgb(182, 156, 11);
+      font-style: italic; 
+   }
+
